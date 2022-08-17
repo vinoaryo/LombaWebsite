@@ -30,15 +30,16 @@ bold {
   color: #131313;
 }
 
-/* Make the navigation bar looks good */
+/* Make the navigation bar looks good and sticky*/
 
 nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 1rem;
-  height: 3rem;
-  background-color: #141414;
+    background-color: #141414;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    margin-left: 2em;
 }
 
 nav a {
