@@ -1,4 +1,4 @@
-# Perlawanan Perjajahan 1945
+# Perjuangan Pahlawan 1945
 
 Jelaskan Filosfi website anda yang anda buat, dengan sebaik mungkin.
 
@@ -11,6 +11,6 @@ Jelaskan Filosfi website anda yang anda buat, dengan sebaik mungkin.
 | **Author**              | : | Vino Aryo                                |
 | **Tema**                | : | Perlawanan Perjajahan 1945               |
 | **Category**            | : | Desain Website                           |
-| **Animasi Digunakan**   | : | [Animate.css](https://animate.style/)|
+| **Animasi Digunakan**   | : | None                                     |
 | **Font Digunakan**      | : | Open Sans                                |
 | **Referensi**           | : | My mind and Google                       |
